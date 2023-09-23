@@ -24,13 +24,8 @@
   <h1>Certificates</h1>
   <div class="certificates">
     <div class="certificate">
-      <a href="link_to_certificate_1.jpg">
-        <img src="link_to_certificate_1.jpg" alt="Certificate 1">
-      </a>
-    </div>
-    <div class="certificate">
-      <a href="link_to_certificate_2.jpg">
-        <img src="link_to_certificate_2.jpg" alt="Certificate 2">
+      <a href="https://www.credly.com/badges/8afaf4be-1328-453b-b037-ffc6c6234748/linked_in?t=s12uym">
+        <img src="certificado_practitioner.png" alt="Certificate 1">
       </a>
     </div>
   </div>
