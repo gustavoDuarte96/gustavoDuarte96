@@ -46,7 +46,7 @@
     <li><a href="https://instagram.com/awsugmontevideo?igshid=MzRlODBiNWFlZA==" target="_blank">AWS UG Montevideo Instagram</a></li>
   </ul>
   <img src="Logo_AWS_UG_FONDO_OSCURO.png" alt="AWS UG Montevideo Community" style="width: 66%; float: left; margin-right: 10px;">
-  <img src="badges_leader-dark.png" alt="Leader Badge" style="height: auto; max-height: 100%; width: auto;">
+  <img src="badges_leader-dark.png" alt="Leader Badge" style="height: auto; max-height: 20px; width: auto;">
 </div>
 
 </body>
