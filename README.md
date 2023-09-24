@@ -30,7 +30,7 @@
   <div style="display: flex; flex-wrap: wrap; gap: 10px;">
     <div style="flex: 0 1 calc(50% - 5px); border: 2px solid #3498db; border-radius: 10px; overflow: hidden;">
       <a href="https://www.credly.com/badges/8afaf4be-1328-453b-b037-ffc6c6234748/linked_in?t=s12uym" target="_blank">
-        <img src="certificado_practitioner.png" alt="Certificate 1" style="width: 100%; height: auto;">
+        <img src="certificado_practitioner.png" alt="Certificate 1" style="width: 10%; height: auto;">
       </a>
     </div>
   </div>
