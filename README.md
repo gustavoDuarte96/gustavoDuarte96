@@ -40,13 +40,13 @@
   <h1 style="color: #2ecc71; font-size: 24px; margin-bottom: 10px;">AWS UG Montevideo Community</h1>
   <p style="font-size: 18px;">I am the leader of the AWS UG Montevideo community in Uruguay. Our community is dedicated to sharing knowledge about Amazon Web Services. Join us on our social media and events!</p>
   <ul style="font-size: 18px;">
-    <li>LinkedIn: <a href="https://www.linkedin.com/company/aws-ug-montevideo/" target="_blank">AWS UG Montevideo</a></li>
-    <li>Meetup: <a href="https://www.meetup.com/aws-ug-montevideo/" target="_blank">AWS UG Montevideo Meetup</a></li>
-    <li>YouTube: <a href="https://www.youtube.com/@awsugmontevideo" target="_blank">AWS UG Montevideo on YouTube</a></li>
-    <li>Instagram: <a href="https://instagram.com/awsugmontevideo?igshid=MzRlODBiNWFlZA==" target="_blank">AWS UG Montevideo Instagram</a></li>
+    <li><a href="https://www.linkedin.com/company/aws-ug-montevideo/" target="_blank">AWS UG Montevideo</a></li>
+    <li><a href="https://www.meetup.com/aws-ug-montevideo/" target="_blank">AWS UG Montevideo Meetup</a></li>
+    <li><a href="https://www.youtube.com/@awsugmontevideo" target="_blank">AWS UG Montevideo on YouTube</a></li>
+    <li><a href="https://instagram.com/awsugmontevideo?igshid=MzRlODBiNWFlZA==" target="_blank">AWS UG Montevideo Instagram</a></li>
   </ul>
   <img src="Logo_AWS_UG_FONDO_OSCURO.png" alt="AWS UG Montevideo Community" style="width: 66%; float: left; margin-right: 10px;">
-  <img src="badges_leader-dark.png" alt="Leader Badge" style="width: 33%;">
+  <img src="badges_leader-dark.png" alt="Leader Badge" style="width: auto; height: 100%;">
 </div>
 
 </body>
