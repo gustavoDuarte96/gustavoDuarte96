@@ -45,8 +45,8 @@
     <li><a href="https://www.youtube.com/@awsugmontevideo" target="_blank">AWS UG Montevideo on YouTube</a></li>
     <li><a href="https://instagram.com/awsugmontevideo?igshid=MzRlODBiNWFlZA==" target="_blank">AWS UG Montevideo Instagram</a></li>
   </ul>
-  <img src="Logo_AWS_UG_FONDO_OSCURO.png" alt="AWS UG Montevideo Community" style="width: 66%; float: left; margin-right: 10px; max-height: 120px;">
-  <img src="badges_leader-dark.png" alt="Leader Badge" style="width: 33%; max-height: 120px;">
+  <img src="Logo_AWS_UG_FONDO_OSCURO.png" alt="AWS UG Montevideo Community" style="width: 66%; float: left; margin-right: 10px; height: 120px;">
+  <img src="badges_leader-dark.png" alt="Leader Badge" style="width: 33%; height: 120px;">
 </div>
 
 </body>
