@@ -20,8 +20,6 @@
     <li>Amazon Web Services (AWS)</li>
     <li>Docker</li>
     <li>Node.js</li>
-    <li>Kubernetes</li>
-    <li>Terraform</li>
   </ul>
 
   <h1 style="color: #2ecc71; font-size: 24px; margin-bottom: 10px;">Learning</h1>
