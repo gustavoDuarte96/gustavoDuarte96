@@ -1,3 +1,4 @@
+![Visitas](https://visitor-badge.glitch.me/badge?page_id=gustavoDuarte96.gustavoDuarte96)
 <!DOCTYPE html>
 <html>
 <head></head>
@@ -54,4 +55,4 @@
 </div>
 </body>
 </html>
-![Visitas](https://visitor-badge.glitch.me/badge?page_id=gustavoDuarte96.gustavoDuarte96)
+
