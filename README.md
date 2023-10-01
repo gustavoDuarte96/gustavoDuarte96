@@ -26,6 +26,7 @@
   <ul style="font-size: 18px; margin-bottom: 20px;">
     <li>Kubernetes</li>
     <li>Terraform</li>
+    <li>Azure</li>
   </ul>
 </div>
 
