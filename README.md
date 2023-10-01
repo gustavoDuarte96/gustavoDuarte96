@@ -52,6 +52,6 @@
   <img src="Logo_AWS_UG_FONDO_OSCURO.png" alt="AWS UG Montevideo Community" style="float: left; margin-right: 10px; height: 120px;" href=#>
   <img src="badges_leader-dark.png" alt="Leader Badge" style="height: 120px;" href=#>
 </div>
-![Visitas](https://visitor-badge.glitch.me/badge?page_id=gustavoDuarte96.gustavoDuarte96)
 </body>
 </html>
+![Visitas](https://visitor-badge.glitch.me/badge?page_id=gustavoDuarte96.gustavoDuarte96)
