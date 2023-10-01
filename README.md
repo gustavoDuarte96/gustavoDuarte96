@@ -1,4 +1,4 @@
-![Visitas](https://visitor-badge.glitch.me/badge?page_id=gustavoDuarte96.gustavoDuarte96)
+![](https://komarev.com/ghpvc/?username=gustavoDuarte96&label=PROFILE+VIEWS)
 <!DOCTYPE html>
 <html>
 <head></head>
