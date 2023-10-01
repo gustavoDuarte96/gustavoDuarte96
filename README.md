@@ -1,4 +1,3 @@
-![](https://komarev.com/ghpvc/?username=gustavoDuarte96&label=PROFILE+VIEWS)
 <!DOCTYPE html>
 <html>
 <head></head>
@@ -56,3 +55,4 @@
 </body>
 </html>
 
+![](https://komarev.com/ghpvc/?username=gustavoDuarte96&label=PROFILE+VIEWS)
