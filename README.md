@@ -12,7 +12,6 @@
 <div style="margin-top: 20px;">
   <h1 style="color: #2ecc71; font-size: 24px; margin-bottom: 10px;">Technologies and Languages</h1>
   <ul style="font-size: 18px; margin-bottom: 20px;">
-    <li>JavaScript (JS)</li>
     <li>React</li>
     <li>Laravel</li>
     <li>PHP</li>
