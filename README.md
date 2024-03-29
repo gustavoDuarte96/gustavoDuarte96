@@ -4,7 +4,7 @@
     <img src="banner.jpeg" alt="Banner" style="max-width: 100%; border-radius: 10px;">
 </header>
 
-<main style="max-width: 800px; margin: 0 auto; padding: 20px; background-color: #fff; border-radius: 10px; box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);">
+<main>
     <section style="margin-bottom: 20px;">
         <h2 style="color: #2ecc71; font-size: 24px; margin-bottom: 10px;">Technologies and Languages</h2>
         <ul style="font-size: 18px; list-style-type: none; padding: 0;">
