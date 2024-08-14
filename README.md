@@ -31,7 +31,7 @@
       <div style="display: flex; flex-wrap: wrap; gap: 10px;"> <!-- Reduce el gap para un espaciado más pequeño -->
   <div style="flex: 1 1 calc(25% - 5px); border: 2px solid #3498db; border-radius: 10px; overflow: hidden; transition: transform 0.2s;">
     <a href="https://www.credly.com/badges/8afaf4be-1328-453b-b037-ffc6c6234748/linked_in?t=s12uym" target="_blank" style="text-decoration: none; color: inherit;">
-      <img src="certificado_practitioner.png" alt="Certificate 1" style="width: 80%; height: auto; margin: 10%;"> <!-- Reduce la imagen al 80% y añade margen para centrarla -->
+      <img src="certificado_practitioner.png" alt="Certificate 1" style="width: 20%; height: auto; margin: 10%;"> <!-- Reduce la imagen al 80% y añade margen para centrarla -->
     </a>
   </div>
 </div>
