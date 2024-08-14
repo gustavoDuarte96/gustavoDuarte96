@@ -28,13 +28,13 @@
     </section>
     <section style="margin-bottom: 30px;">
       <h2 style="color: #3498db; font-size: 28px; margin-bottom: 15px;">Certificates</h2>
-      <div style="display: flex; flex-wrap: wrap; gap: 20px;">
-        <div style="flex: 1 1 calc(50% - 10px); border: 2px solid #3498db; border-radius: 10px; overflow: hidden; transition: transform 0.2s;">
-          <a href="https://www.credly.com/badges/8afaf4be-1328-453b-b037-ffc6c6234748/linked_in?t=s12uym" target="_blank" style="text-decoration: none; color: inherit;">
-            <img src="certificado_practitioner.png" alt="Certificate 1" style="width: 100%; height: auto;">
-          </a>
-        </div>
-      </div>
+      <div style="display: flex; flex-wrap: wrap; gap: 10px;"> <!-- Reduce el gap para un espaciado más pequeño -->
+  <div style="flex: 1 1 calc(25% - 5px); border: 2px solid #3498db; border-radius: 10px; overflow: hidden; transition: transform 0.2s;">
+    <a href="https://www.credly.com/badges/8afaf4be-1328-453b-b037-ffc6c6234748/linked_in?t=s12uym" target="_blank" style="text-decoration: none; color: inherit;">
+      <img src="certificado_practitioner.png" alt="Certificate 1" style="width: 80%; height: auto; margin: 10%;"> <!-- Reduce la imagen al 80% y añade margen para centrarla -->
+    </a>
+  </div>
+</div>
     </section>
     <section style="margin-bottom: 30px;">
       <h2 style="color: #3498db; font-size: 28px; margin-bottom: 15px;">AWS UG Montevideo Community</h2>
