@@ -10,7 +10,6 @@
         <ul style="font-size: 18px; list-style-type: none; padding: 0;">
             <li>React</li>
             <li>Laravel</li>
-            <li>PHP</li>
             <li>Tailwind CSS</li>
             <li>Amazon Web Services (AWS)</li>
             <li>Docker</li>
@@ -18,12 +17,11 @@
         </ul>
     </section>
     <section style="margin-bottom: 20px;">
-        <h2 style="color: #2ecc71; font-size: 24px; margin-bottom: 10px;">Learning</h2>
-        <ul style="font-size: 18px; list-style-type: none; padding: 0;">
-            <li>Kubernetes</li>
-            <li>Terraform</li>
-            <li>Azure</li>
-        </ul>
+      <h2 style="color: #2ecc71; font-size: 24px; margin-bottom: 10px;">Learning</h2>
+      <ul style="font-size: 18px; list-style-type: none; padding: 0;">
+        <li><strong>Flutter</strong> (Google's UI toolkit for building natively compiled applications)</li>
+        <li><strong>Firebase</strong> (Google's platform for app development, including real-time databases, authentication, and cloud functions)</li>
+      </ul>
     </section>
     <section style="margin-bottom: 20px;">
         <h2 style="color: #3498db; font-size: 24px; margin-bottom: 10px;">Certificates</h2>
