@@ -1,7 +1,7 @@
 <div>
   <header style="text-align: center; padding: 20px;">
     <h1 style="margin-bottom: 10px;">Hello! 👋 I'm Gustavo Duarte</h1>
-    <img src="banner.jpeg" alt="Banner" style="max-width: 100%; border-radius: 10px;">
+    <img src="flutter.jpeg" alt="Banner" style="max-width: 100%; border-radius: 10px;">
 </header>
 
 <main>
