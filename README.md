@@ -1,7 +1,10 @@
 <div style="font-family: Arial, sans-serif; color: #333;">
   <header style="text-align: center; padding: 30px; background-color: #f7f9fc; border-bottom: 3px solid #3498db;">
     <h1 style="margin-bottom: 20px; font-size: 36px; color: #2c3e50;">Hello! 👋 I'm Gustavo Duarte</h1>
-    <img src="flutter.jpeg" alt="Banner" style="max-width: 100%; border-radius: 15px; box-shadow: 0 4px 10px rgba(0,0,0,0.1);">
+    <div style="width: 100%; height: auto; max-height: 70%; overflow: hidden; border-radius: 15px; box-shadow: 0 4px 10px rgba(0,0,0,0.1);">
+      <img src="flutter.jpeg" alt="Banner" style="width: 100%; margin-top: -15%; margin-bottom: -15%;">
+    </div>
+
   </header>
 
   <main style="padding: 30px;">
